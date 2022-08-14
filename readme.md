@@ -5,3 +5,5 @@
 [3.深入分析Spark SQL Catalyst Analyzer](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484331&idx=1&sn=d082fde44131366e1ed623014afc5535&chksm=c012b786f7653e902f0b1b02a644c41e4b2b8fba4a0a5b183d04cbc722de26cb6c3c9b892bdf&token=1366458332&lang=zh_CN#rd)
 
 [4.基于规则的Spark SQL Catalyst优化器（一）](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484782&idx=1&sn=fa0e44c13e146b38d008f69eab4ec9f2&chksm=c012b143f7653855ecef9843e6972c065638bd965f1166454f3a83cdef0be303a383d2b69f64&token=753079481&lang=zh_CN#rd)
+
+[基于规则的Spark SQL Catalyst优化器（二）](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&amp;mid=2247484790&amp;idx=1&amp;sn=b0f2d35367b378812ece04fd0235b08e&amp;scene=19#wechat_redirect)
