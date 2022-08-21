@@ -14,3 +14,5 @@
 [7.学习Spark SQL一定要弄懂的Spark Planner工作原理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484910&idx=1&sn=08c82ad4d7d26f19a1548183f3292253&chksm=c012b1c3f76538d591d20700b4a8323b95b6f19cdf7079b1a917cda8ee07d5beb664e6ec2c80&token=1274642282&lang=zh_CN#rd)
 
 [8.Spark SQL深入分析之图解Aggregation策略工作流程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484981&idx=1&sn=18453af79ec6d87916b8146296572883&chksm=c012b218f7653b0eeb9bcaed4490b4bc861471e2e92af9aef3f9158826d47062c49ecf2e8330&token=1274642282&lang=zh_CN#rd)
+
+[9.Spark SQL深入分析之图解SortAggregateExec执行流程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484982&idx=1&sn=4c2ed3b06dc4aff7ff3b6d32ef59576a&chksm=c012b21bf7653b0db84131ee3695a25c081ecb065b81fb41a4d142ea458f348117eb3949e4b1&token=1274642282&lang=zh_CN#rd)
