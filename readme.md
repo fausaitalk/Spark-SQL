@@ -18,3 +18,5 @@
 [9.Spark SQL深入分析之图解SortAggregateExec执行流程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484982&idx=1&sn=4c2ed3b06dc4aff7ff3b6d32ef59576a&chksm=c012b21bf7653b0db84131ee3695a25c081ecb065b81fb41a4d142ea458f348117eb3949e4b1&token=1274642282&lang=zh_CN#rd)
 
 [10.Spark SQL深入分析之图解HashAggregateExec & ObjectHashAggregateExec执行流程](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484984&idx=1&sn=1670ef0385514be6f1e986d9cc6ab7d5&chksm=c012b215f7653b0312e86fd200a0d00148f00b8b583a81f218a13149a9619461b2d230fea98c&token=1889923822&lang=zh_CN#rd)
+
+[11.Spark SQL深入分析之图解五种Join策略的执行流程与应用场景](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484988&idx=1&sn=ae57f6f36bb6a1f87fafde1e3486d723&chksm=c012b211f7653b071a356af84b9579f8d641e37f798bd1146b8e313e6983176ba6816df9b88f&token=1889923822&lang=zh_CN#rd)
