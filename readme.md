@@ -21,4 +21,4 @@
 
 [11.Spark SQL深入分析之图解五种Join策略的执行流程与应用场景](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247484988&idx=1&sn=ae57f6f36bb6a1f87fafde1e3486d723&chksm=c012b211f7653b071a356af84b9579f8d641e37f798bd1146b8e313e6983176ba6816df9b88f&token=1889923822&lang=zh_CN#rd)
 
-
+[12.Spark SQL深入分析之SessionCatalog & RunnableCommand的执行流程与内部实现原理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485086&idx=1&sn=d9e88e51e1d006a366aa08de0774dc70&chksm=c012b2b3f7653ba5e78fe7fcfbd5f6b5a26f935e75583fe5e68ac37a3e8e6068ec3a3784c639&token=1396812793&lang=zh_CN#rd)
