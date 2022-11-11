@@ -24,3 +24,5 @@
 [12.Spark SQL深入分析之SessionCatalog & RunnableCommand的执行流程与内部实现原理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247485086&idx=1&sn=d9e88e51e1d006a366aa08de0774dc70&chksm=c012b2b3f7653ba5e78fe7fcfbd5f6b5a26f935e75583fe5e68ac37a3e8e6068ec3a3784c639&token=1396812793&lang=zh_CN#rd)
 
 [13.Spark SQL深入分析之Cache操作的内部实现原理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495282&idx=1&sn=d65449ea6dffb02510088b09220c0396&chksm=c0115a5ff766d34953d157225ff7d4b80f8b28a52487aeb76c94f8c40ca514a1427fe9f9814b&token=121446329&lang=zh_CN#rd)
+
+[Spark SQL深入分析之分布式数据分区与排序](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495297&idx=1&sn=801d52e02be62e40afabf7a335005bf4&chksm=c0115aacf766d3ba3e93e8a9db3812435a1defbd82e9e25c0c1da7361fa43c3b58b8190ea638&token=121446329&lang=zh_CN#rd)
