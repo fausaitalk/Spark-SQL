@@ -28,3 +28,5 @@
 [14.Spark SQL深入分析之分布式数据分区与排序](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495297&idx=1&sn=801d52e02be62e40afabf7a335005bf4&chksm=c0115aacf766d3ba3e93e8a9db3812435a1defbd82e9e25c0c1da7361fa43c3b58b8190ea638&token=121446329&lang=zh_CN#rd)
 
 [15.Spark SQL深入分析之ShuffleExchangeExec & UnsafeShuffleWriter的工作原理](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495418&idx=1&sn=731131bc1cb7dc7ba77a40554d227116&chksm=c0115ad7f766d3c1c5ae32b58cf4872e9a567c7543b6c03f13d2793bdaaa0e8a83fec8839046&token=637025321&lang=zh_CN#rd)
+
+[16.Spark SQL深入分析之动态分区裁剪（Dynamic Partition Pruning）](https://mp.weixin.qq.com/s?__biz=Mzg5NTE5ODUzMA==&mid=2247495430&idx=1&sn=1882bcca12fdff00390d391965155939&chksm=c0115b2bf766d23d9a3e06ca7b4b73ae1d246d59aeef1e3de657725fb95d7e116e8724450ea1&token=637025321&lang=zh_CN#rd)
